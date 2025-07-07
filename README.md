@@ -45,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=c,css,express,html,java,js,linux,mongodb,mysql,git" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,nextjs,nodejs,react,tailwind,typescript,vscode,visualstudio,androidstudio,vite" />
+  <img src="https://skillicons.dev/icons?i=aws,nextjs,nodejs,react,tailwind,vscode,visualstudio,androidstudio,vite" />
 </p>
 
 
