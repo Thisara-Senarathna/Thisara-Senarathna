@@ -31,7 +31,7 @@
   </a>
 <!--   <a href="https://web.facebook.com/kanishka.udayanga.754/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> -->
 <!--   <a href="https://www.instagram.com/kanishka_udayanga__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> -->
-  <a href="mailto:thisarasenarathna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:thisarasenarathna0824@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <div align="center">
@@ -66,4 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara-Senarathna&theme=radical" alt="GitHub Streak" />
 </div>
 <br>
-<h3 align="center">Thanks for stopping by! Feel free to reach out for collaborations or just a friendly chat. 😊</h3>
+
+<h3 align="center">Thanks for stopping by! 👋</h3>
+<h4 align="center">Let's build something amazing together. 😊</h4>
