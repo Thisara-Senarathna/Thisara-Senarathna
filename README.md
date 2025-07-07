@@ -13,8 +13,8 @@
         <li>🌟 Passionate Web and Mobile developer 🏝</li><br>
         <li>🌱 Currently exploring the realms of <b>AWS</b></li><br>
         <li>🧑‍🎓 I’m an Undergraduate at the University of Moratuwa</li><br>
-        <li>💬 Ask me about <b>React</b></li><br>
-        <li>📫 Reach me at <b>mskanishkaudaynaga@gmail.com</b></li><br>
+<!--         <li>💬 Ask me about <b>React</b></li><br> -->
+        <li>📫 Reach me at <b>thisarasenarathna0824@gmail.com</b></li><br>
       </ul>
     </td>
      <td width="30%" align="center">
@@ -35,17 +35,17 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hirushan2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<!--   <img src="https://komarev.com/ghpvc/?username=hirushan2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> -->
 </div>
 
 
 <h2 align="center">🛠 Languages-Frameworks-Tools</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,c,css,express,html,java,js,linux,mongodb,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=c,css,express,html,java,js,linux,mongodb,mysql,git" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,reactnative,tailwind,typescript,vscode,visualstudio,androidstudio,vercel,vite" />
+  <img src="https://skillicons.dev/icons?i=aws,nextjs,nodejs,react,tailwind,typescript,vscode,visualstudio,androidstudio,vite" />
 </p>
 
 
